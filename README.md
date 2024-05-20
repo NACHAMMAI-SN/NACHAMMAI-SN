@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the fundamentals of data science and exploring various machine learning algorithms.
 - 💞️ I’m looking to collaborate on projects related to data analysis, machine learning, and software development.
 - 📫 How to reach me: Feel free to connect with me via email at [nachammai.s.n@gmail.com] or through LinkedIn [linkedin.com/in/nachammai-s-n-1081992a3].
-- 😄 Pronouns:she/her
+  
 
 
 🖥️ In my GitHub repositories, you'll find a blend of projects spanning various programming languages and data science techniques. 
