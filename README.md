@@ -5,7 +5,7 @@ I'm constantly honing my skills and pushing the boundaries of what I can achieve
 
 
 # Hey, I'm Nachammai!
-Currently a second year MSc Data Science Student at PSG College Of Technology, Coimbatore.
+Currently a third year MSc Data Science Student at PSG College Of Technology, Coimbatore.
 
 
 ## 🌐 Socials:
